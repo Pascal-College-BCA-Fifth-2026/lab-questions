@@ -4,6 +4,7 @@
 1. Please create your respository on https://github.com/Pascal-College-BCA-Fifth-2026, **Repository** name should be your `firstname-lastname`
 2. There should be a folder for each question, which should contain your solution project and output snapshots.
 3. For Quetion 1, you can have single project and implement all programs (1-7) there.
+1. Generate final **PDF report** with all these solutions and snapshots you attached and  add it to the repo itself. You may want to use any AI tools for this job providing your repo as a context.
 
 ## Question 1 - Quick Programs  
 1. Find Largest number among 3 numbers given?
